@@ -9,11 +9,14 @@
 }
 
 body {
+    margin-left: 20rem  ;
+    margin-right: 20rem;
     font-family: Roboto, sans-serif;
     font-size: 1.6rem;
 }
 
 .content  {
+  
     display: grid;
     grid-template-areas: 
     ". . . ."
@@ -104,3 +107,4 @@ main footer a {
     text-align: center;
     color: black;
 }
+
